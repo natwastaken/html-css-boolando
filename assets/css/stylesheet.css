@@ -8,5 +8,20 @@
 
 html {
     font-size: 100%;
-    font-family: ;
+    font-family: 'Roboto', sans-serif;
+}
+
+                /* Reset */
+
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.card {                                                   
+  width: calc(100% / 3 - 4em / 3);
+  height: 500px;
+  margin-right: 2em;
+  margin-bottom: 1em;
 }
